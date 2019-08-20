@@ -1,0 +1,52 @@
+{
+    "properties": [
+        {
+            "id": 1,
+            "propertyImage": "https://images.unsplash.com/photo-1545083036-b175dd155a1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80",
+            "numBedrooms": 4,
+            "address": {
+                "street": "Abbey Row",
+                "city": "London",
+                "postcode": "NW10"
+            },
+            "shortDescription": "This house features wood flooring throughout, a large king size bedroom with an en suite along with three good sized double bedrooms, a separate kitchen, family bathrooms and a bright spacious reception room.",
+            "dateAdded": "19/08/2019",
+            "agentEmail": "greenerpastures@hd-mail.com",
+            "propertyPrice": 2100000,
+            "propertyType": "house",
+            "isFavourite": false
+        },
+        {
+            "id": 2,
+            "propertyImage": "https://images.unsplash.com/photo-1489171078254-c3365d6e359f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80",
+            "numBedrooms": 2,
+            "address": {
+                "street": "Argyll Road",
+                "city": "London",
+                "postcode": "NW9"
+            },
+            "shortDescription": "A stunning two bedroom apartment situated on the 8th floor of a modern development boasting bright interiors, a private balcony and access to the communal gardens.",
+            "dateAdded": "02/08/2019",
+            "agentEmail": "greenerpastures@hd-mail.com",
+            "propertyPrice": 535000,
+            "propertyType": "flat",
+            "isFavourite": false
+        },
+        {
+            "id": 3,
+            "propertyImage": "https://images.unsplash.com/photo-1501183638710-841dd1904471?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+            "numBedrooms": 3,
+            "address": {
+                "street": "Scotsburn Road",
+                "city": "London",
+                "postcode": "NW8"
+            },
+            "shortDescription": "A beautifully presented, inferior designed flat finished to a high specification situated on the third floor of this prestigious development designed by internationally renowned architects.",
+            "dateAdded": "12/08/2019",
+            "agentEmail": "greenerpastures@hd-mail.com",
+            "propertyPrice": 4595000,
+            "propertyType": "flat",
+            "isFavourite": false
+        }
+    ]
+}
